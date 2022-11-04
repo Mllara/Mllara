@@ -22,7 +22,7 @@
   <img align="center" alt="Mllara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mllara-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Mllara-Amazonservices" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-   <img align="right" alt="Rafa-pic" height="180" style="border-radius:50px;" src="![octocat-1667570322970](https://user-images.githubusercontent.com/97680447/199990955-c136ebc0-6fcf-4919-a09c-2c74f347d1fa.png)">
+   
    
 </div>
   
