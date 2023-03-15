@@ -2,7 +2,7 @@
 
 - 📚 JavaScript, TypeScript, Python, HTML/CSS e Amazon Services
 - 📑 Cybersecurity/ Cloud Security
-- 💬 I speak fluently Portuguese, English and I'm learning German
+- 💬 I speak fluently Portuguese, English and I'm learning German and Spanish
 - ⚡ Fun fact: I'm a biomedical, anatomist and imagenologist👩‍🔬
 
 ##
